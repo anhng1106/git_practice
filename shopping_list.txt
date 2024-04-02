@@ -1,0 +1,9 @@
+Fruits: apples, bananas, oranges
+Vegetables: carrots, spinach, potatoes
+Dairy: milk, cheese, yogurt
+Proteins: chicken breasts, eggs, tofu
+Grains: rice, pasta, bread
+Snacks: nuts, granola bars, chips
+Beverages: water, juice, coffee
+Household supplies: toilet paper, laundry detergent, dish soap
+Personal care: shampoo, toothpaste, deodorant
