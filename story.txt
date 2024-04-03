@@ -5,4 +5,9 @@ From this pocket, Doraemon can produce gadgets, tools, and medicines that help N
 challenges of school and life. The series is celebrated for its mix of humor, life lessons, and the occasional 
 touching moment, showcasing themes of friendship, perseverance, and the impact of technology on everyday 
 life.
+<<<<<<< HEAD
 This is a funny story.
+=======
+
+Nobita has 5 best friends.
+>>>>>>> edb99a3f3c10c5f53281d87de476ba886a1c6cd2
